@@ -1,0 +1,10 @@
+Package: edgeFlashTool
+Version: 1.0.0
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 1024
+Maintainer: https://www.technimal.co.th
+Description: This is program which is for flash firmware edge device run on linux system.
+Depends: python3, esptool, Pyserial

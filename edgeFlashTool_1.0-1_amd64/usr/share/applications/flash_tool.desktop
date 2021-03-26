@@ -1,0 +1,13 @@
+
+[Desktop Entry]
+Version=1.0
+Name=flash_tool
+GenericName=flash_tool
+Comment=Edge flash firmware tool.
+Exec=/usr/bin/flash_tool
+TryExec/usr/bin/flash_tool
+Icon=/usr/share/icons/faxicon.png
+Terminal=true
+Type=Application
+Categories=Utility;
+
